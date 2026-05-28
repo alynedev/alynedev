@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="25"/> Hi! I'm Alyne!  
+# <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="25"/> Hi, I'm Alyne!  
 
 
 ## 🛠️ Tech Stack  
