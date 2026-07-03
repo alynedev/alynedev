@@ -1,31 +1,18 @@
 <br>
 <div align="center">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=6ea0d2&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Front-End+Developer;Computer+Science+Student"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=f8f8f8&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Front-End+Developer;Computer+Science+Student"
     alt="Typing SVG"
 />
 </div>
-<br>
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alyne-feitosa">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge"/>
-</a>
-
-<a href="mailto:karlaalyne08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge"/>
-</a>
-
-<a href="https://alyne-feitosa.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge"/>
-</a>
-</div>
 
 <br>
 
 <div align="center">
-<h2>Technologies</h2>
+<pre>~/alyne ❯ ls installed_modules</pre>
 </div> 
+
+<br>
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> 
@@ -51,7 +38,48 @@
 <br> 
 
 <div align="center">
- <h2>GitHub Stats</h2>
+<pre>~/alyne ❯ cat github.log</pre>
+</div> 
+
+<br>
+
+<div align="center">
+    <img
+    width="390"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alynedev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8&icon_color=22D3EE"
+    />
+    <img
+    width="360"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alynedev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8"
+    />
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alynedev&bg_color=0D1117&color=F8F8F8&line=8B5CF6&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true)](https://github.com/alynedev)
+
+<br>
+
+<div align="center">
+<pre>~/alyne ❯ open contacts</pre>
+</div> 
+
+<br>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/alyne-feitosa">
+        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge"/>
+    </a>
+    <a href="mailto:karlaalyne08@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge"/>
+    </a>
+    <a href="https://alyne-feitosa.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+<pre>~/alyne ❯ exit</pre>
 </div> 
 
 
