@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=f8f8f8&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Frontend+Developer;Computer+Science+Student"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=f8f8f8&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Front-end+Developer;Computer+Science+Student"
     alt="Typing SVG"
 />
 </div>
