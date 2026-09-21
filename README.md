@@ -46,11 +46,11 @@
 <div align="center">
     <img
     width="390"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=alynedev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8&icon_color=22D3EE"
+    src="https://github-readme-stats.vercel.app/api?username=alynedev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8&icon_color=22D3EE"
     />
     <img
     width="360"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alynedev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?   username=alynedev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8"
     />
 </div>
 
