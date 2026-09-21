@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=f8f8f8&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Front-end+Developer;Computer+Science+Student"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3500&pause=1200&color=f8f8f8&center=true&vCenter=true&width=420&height=35&lines=Alyne+Feitosa;Software+Developer;Computer+Science+Student"
     alt="Typing SVG"
 />
 </div>
@@ -45,16 +45,14 @@
 
 <div align="center">
     <img
-    width="390"
-    src="https://github-readme-stats.vercel.app/api?username=alynedev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8&icon_color=22D3EE"
+        width="390"
+        src="https://github-stats-extended.vercel.app/api?username=alynedev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8&icon_color=22D3EE"
     />
     <img
-    width="360"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?   username=alynedev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8"
+        width="360"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=alynedev&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=F8F8F8"
     />
 </div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alynedev&bg_color=0D1117&color=F8F8F8&line=8B5CF6&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true)](https://github.com/alynedev)
 
 <br>
 
